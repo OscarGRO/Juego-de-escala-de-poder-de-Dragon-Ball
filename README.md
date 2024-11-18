@@ -8,7 +8,7 @@ Un programa creado con el lenguaje de programacion C++
 
 - Se generara un nivel de poder aleatorio y se mostrara el resultado de la batalla con diferentes enemigos de Dragon Ball.
 
-##How to use
+## How to use
 El programa te pedirá que ingreses tu nombre.
 
 Luego, deberás elegir tu raza entre:
@@ -40,7 +40,7 @@ git clone https://github.com/OscarGRO/Juego-de-escala-de-poder-de-Dragon-Ball
 
 
 
-##License
+## License
 La clase tiene licencia bajo Licencia MIT
 
 Copyright (c) 2024 OscarGRO
