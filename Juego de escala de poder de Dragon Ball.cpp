@@ -14,7 +14,7 @@ int numero, raza;
 //Oscar G. Rodríguez.
     srand(time(NULL));
     numero = (rand() % 150000000) + 1;
-    cout << "Bienvenido a el escalador de poder de Dragon Ball.\n";
+    cout << "Bienvenido al escalador de poder de Dragon Ball.\n";
     cout << "Introduzca su nombre: ";
     cin >> nombre;
     
